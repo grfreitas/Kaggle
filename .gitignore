@@ -1,3 +1,9 @@
+# General Stuff
 *.ipynb_checkpoints/
 *.csv
+
+# TrackML Particle Tracking Challenge
 trackml-library/
+
+# Freesound Audio Tagging
+*.wav
